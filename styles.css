@@ -63,9 +63,14 @@ footer{
   border-radius: 100%;
   
 } 
-/*
+@media(min-width:900px){
+  .top img{
+    position: relative;
+    left: 55%;
+    bottom: 20%;
+  }
+}
 
-  */
 .top p{
   color: #7E7474;
   line-height: 2;
