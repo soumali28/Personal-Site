@@ -1,2 +1,2 @@
 # Personal-Site
-This is a personal site. Trying to make it mobile responsive
+This is my portfolio website.
